@@ -3,11 +3,7 @@ Hi! I am Charles Oliveira
 - 🌱 I’m currently learning Javascript, Typescript, NodeJs, ReactJs and VueJs
 
 ##
-<div align="center">
-  <a href="https://github.com/chars3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chars3&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chars3&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+
 <br/>
   
 <div align="center">
